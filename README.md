@@ -50,4 +50,4 @@ Libraries Involved:
 11. GridSearchCV
 
 Conclusion:
-We will use AUC to determine the model accuracy.
+We will use AUC to determine the model efficiency.

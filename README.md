@@ -24,10 +24,15 @@ Data Set Attritube:
 Steps to be performed in model.
 
 OSEMN Pipeline:
+
 O - Obtaining our data
+
 S - Scrubbing / Cleaning our data
+
 E - Exploring / Visualizing our data will allow us to find patterns and trends
+
 M - Modeling our data will give us our predictive power as a wizard
+
 N - Interpreting our data
 
 Libraries Involved:
@@ -43,3 +48,6 @@ Libraries Involved:
 9. KNeighborsClassifier
 10. Classification_report
 11. GridSearchCV
+
+Conclusion:
+We will use AUC to determine the model accuracy.

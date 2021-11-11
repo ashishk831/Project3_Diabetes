@@ -23,7 +23,7 @@ Data Set Attritube:
 
 Steps to be performed in model.
 
-OSEMN Pipeline
+OSEMN Pipeline:
 O - Obtaining our data
 S - Scrubbing / Cleaning our data
 E - Exploring / Visualizing our data will allow us to find patterns and trends

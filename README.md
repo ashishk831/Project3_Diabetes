@@ -53,4 +53,4 @@ Libraries Involved:
 11. GridSearchCV
 
 Conclusion:
-We will use AUC to determine the model efficiency.
+After performing EDA and Statistical analysis on Dataset.AUC help to determine the best model to choose for more accurate prediction.

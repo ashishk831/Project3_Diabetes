@@ -45,12 +45,14 @@ Libraries Involved:
 3. Seaborn
 4. Matplotlib
 5. Sklearn
-6. Missingno 
+6. DecisionTreeClassifier
 7. Scatter_matrix
 8. StandardScaler
-9. KNeighborsClassifier
+9. plotly
 10. Classification_report
 11. GridSearchCV
+12. xgboost
+13. lightgbm
 
 Conclusion:
 After performing EDA and Statistical analysis on Dataset.AUC help to determine the best model to choose for more accurate prediction.
